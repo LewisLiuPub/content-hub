@@ -195,7 +195,7 @@ SWAGGER_SETTINGS = {
         'patch',
         'delete'
     ],
-    "api_key": '0032149cbf1e1e72c52566a52da1c3b51bf7c41e', # An API key
+    "api_key": '', # An API key
     "is_authenticated": False,  # Set to True to enforce user authentication,
     "is_superuser": False,  # Set to True to enforce admin only access
 }
